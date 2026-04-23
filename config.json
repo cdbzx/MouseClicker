@@ -1,0 +1,31 @@
+{
+  "regions": [
+    {
+      "name": "区域 1",
+      "x1": 1572,
+      "y1": 1699,
+      "x2": 1858,
+      "y2": 1779,
+      "enabled": true,
+      "weight": 1.0,
+      "color": "#f38ba8"
+    }
+  ],
+  "mode": 0,
+  "order": 0,
+  "profile": 1,
+  "min_interval": 0.01,
+  "max_interval": 0.01,
+  "jitter": 1,
+  "animate": true,
+  "fatigue": false,
+  "random_pause": false,
+  "max_clicks": 0,
+  "max_duration": 60.0,
+  "hotkeys": {
+    "toggle": "F6",
+    "pause": "F7",
+    "emergency": "F8",
+    "select_region": "F9"
+  }
+}
