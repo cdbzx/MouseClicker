@@ -29,6 +29,10 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## 界面预览
+
+![界面截图](screenshot.png)
+
 ## 热键说明
 
 | 热键 | 功能 | 说明 |
